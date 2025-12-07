@@ -2,6 +2,7 @@
 <h1>Project title: Automated Podcast Transcription And Topic Segmentation – Audio Analysis Project</h1>
 <b>Candidate Name: Subinoy Karmakar</b>
 >Assignments provided by Mentor: Resma Rani Nimalpuri
+
 | Date           | Assignment Title                                   | Description                                                                                                  | File Submitted      |
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------|
 | **Nov 27, 2025** | Extract Audio Datasets & Perform Audio Preprocessing | Collected an audio dataset and performed basic preprocessing steps including loading, resampling to 16kHz, mono conversion, normalization, noise reduction, silence removal, and VAD. | [Audio Preprocessing](#) |
