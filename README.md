@@ -6,5 +6,5 @@
 
 | Date            | Assignment Title                         | Description                                                                                                  | File Submitted      |
 |-----------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------|
-| **Nov 30, 2025** | Introduction to Python and OOP Concepts | Implemented basic Python exercises and three OOP tasks covering data storage, inheritance, polymorphism, and model abstraction. | [Python Basics](assignment1/python_basics_assignment.ipynb) |
+| **Nov 30, 2025** | Introduction to Python and OOP Concepts | Implemented basic Python exercises and three OOP tasks covering data storage, inheritance, polymorphism, and model abstraction. | [Python Basics](Assignment1/python_basics_assignment.ipynb) |
 | **Dec 7, 2025**  | NLP Text Classification & Model Deployment Tasks| This assignment focuses on key NLP tasks: comparing vectorization methods, tuning models with GridSearchCV, testing n-grams, deploying a FastAPI inference API.| [Python Basics](#) |
