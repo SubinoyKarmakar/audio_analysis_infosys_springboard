@@ -1,6 +1,7 @@
 ![photo](Infosys_Springboard_LOGO.jpg)
 <h1>Project title: Automated Podcast Transcription And Topic Segmentation – Audio Analysis Project</h1>
 <b>Candidate Name: Subinoy Karmakar</b>
+
 >Assignments provided by Mentor: Resma Rani Nimalpuri
 
 | Date           | Assignment Title                                   | Description                                                                                                  | File Submitted      |
