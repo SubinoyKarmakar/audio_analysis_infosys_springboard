@@ -6,5 +6,5 @@
 
 | Date           | Assignment Title                                   | Description                                                                                                  | File Submitted      |
 |----------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------|
-| **Nov 27, 2025** | Extract Audio Datasets & Perform Audio Preprocessing | Collected an audio dataset and performed basic preprocessing steps including loading, resampling to 16kHz, mono conversion, normalization, noise reduction, silence removal, and VAD. | [Audio Preprocessing](#) |
-| **Dec 01, 2025** | Create 3 Classes Demonstrating OOP Concepts         | Implemented 3 simple classes each for Encapsulation, Inheritance, Polymorphism, and Extraction using beginner-friendly examples. | [Python Basics](#) |
+| **Dec 7, 2025** | Extract Audio Datasets & Perform Audio Preprocessing | Collected an audio dataset and performed basic preprocessing steps including loading, resampling to 16kHz, mono conversion, normalization, noise reduction, silence removal, and VAD. | [Audio Preprocessing](#) |
+| **Nov 30, 2025** | Create 3 Classes Demonstrating OOP Concepts         | Implemented 3 simple classes each for Encapsulation, Inheritance, Polymorphism, and Extraction using beginner-friendly examples. | [Python Basics](#) |
