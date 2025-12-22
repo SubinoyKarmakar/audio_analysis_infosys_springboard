@@ -1,0 +1,203 @@
+[
+  {
+    "id": 0,
+    "seek": 9000,
+    "start": 90.0,
+    "end": 104.86,
+    "text": " Death and trial of life is always going on.",
+    "tokens": [
+      50364,
+      13703,
+      293,
+      7308,
+      295,
+      993,
+      307,
+      1009,
+      516,
+      322,
+      13,
+      51107
+    ],
+    "temperature": 1.0,
+    "avg_logprob": -3.214599064418248,
+    "compression_ratio": 0.8431372549019608,
+    "no_speech_prob": 0.18644602596759796
+  },
+  {
+    "id": 1,
+    "seek": 10486,
+    "start": 104.86,
+    "end": 113.86,
+    "text": " \u2026",
+    "tokens": [
+      50364,
+      5799,
+      50814
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 2,
+    "seek": 10486,
+    "start": 113.86,
+    "end": 116.86,
+    "text": " \u2026",
+    "tokens": [
+      50814,
+      5799,
+      50964
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 3,
+    "seek": 10486,
+    "start": 116.86,
+    "end": 119.86,
+    "text": " \u2026",
+    "tokens": [
+      50964,
+      5799,
+      51114
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 4,
+    "seek": 10486,
+    "start": 119.86,
+    "end": 121.86,
+    "text": " \u2026",
+    "tokens": [
+      51114,
+      5799,
+      51214
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 5,
+    "seek": 10486,
+    "start": 121.86,
+    "end": 123.86,
+    "text": " \u2026",
+    "tokens": [
+      51214,
+      5799,
+      51314
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 6,
+    "seek": 10486,
+    "start": 123.86,
+    "end": 126.86,
+    "text": " \u2026",
+    "tokens": [
+      51314,
+      5799,
+      51464
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 7,
+    "seek": 10486,
+    "start": 126.86,
+    "end": 129.86,
+    "text": " \u2026",
+    "tokens": [
+      51464,
+      5799,
+      51614
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 8,
+    "seek": 10486,
+    "start": 129.86,
+    "end": 132.86,
+    "text": " \u2026",
+    "tokens": [
+      51614,
+      5799,
+      51764
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.6331592706533579,
+    "compression_ratio": 2.066666666666667,
+    "no_speech_prob": 0.13292360305786133
+  },
+  {
+    "id": 9,
+    "seek": 13286,
+    "start": 132.86,
+    "end": 134.86,
+    "text": " \u2026",
+    "tokens": [
+      50364,
+      5799,
+      50464
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.3707249641418457,
+    "compression_ratio": 0.7333333333333333,
+    "no_speech_prob": 0.031386882066726685
+  },
+  {
+    "id": 10,
+    "seek": 13286,
+    "start": 134.86,
+    "end": 135.86,
+    "text": " \u2026",
+    "tokens": [
+      50464,
+      5799,
+      50514
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.3707249641418457,
+    "compression_ratio": 0.7333333333333333,
+    "no_speech_prob": 0.031386882066726685
+  },
+  {
+    "id": 11,
+    "seek": 13286,
+    "start": 135.86,
+    "end": 137.86,
+    "text": " \u2026",
+    "tokens": [
+      50514,
+      5799,
+      50614
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.3707249641418457,
+    "compression_ratio": 0.7333333333333333,
+    "no_speech_prob": 0.031386882066726685
+  }
+]

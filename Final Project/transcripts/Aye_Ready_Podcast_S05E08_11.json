@@ -1,0 +1,48 @@
+[
+  {
+    "id": 0,
+    "seek": 0,
+    "start": 0.0,
+    "end": 2.0,
+    "text": " I am very pleased to support us.",
+    "tokens": [
+      50364,
+      286,
+      669,
+      588,
+      10587,
+      281,
+      1406,
+      505,
+      13,
+      50464
+    ],
+    "temperature": 0.6,
+    "avg_logprob": -0.9369928269159227,
+    "compression_ratio": 0.9552238805970149,
+    "no_speech_prob": 0.2595639228820801
+  },
+  {
+    "id": 1,
+    "seek": 0,
+    "start": 2.0,
+    "end": 4.0,
+    "text": " And may we all be walking away.",
+    "tokens": [
+      50464,
+      400,
+      815,
+      321,
+      439,
+      312,
+      4494,
+      1314,
+      13,
+      50564
+    ],
+    "temperature": 0.6,
+    "avg_logprob": -0.9369928269159227,
+    "compression_ratio": 0.9552238805970149,
+    "no_speech_prob": 0.2595639228820801
+  }
+]
