@@ -1816,29 +1816,17 @@
     "id": 55,
     "seek": 29944,
     "start": 299.44,
-    "end": 326.84,
-    "text": " display which is a history in Psal hvis Baptist\u00e4ker L hierin",
+    "end": 300.08,
+    "text": " description.",
     "tokens": [
-      50365,
-      4674,
-      597,
-      307,
-      257,
-      2503,
-      294,
-      26150,
-      45427,
-      32410,
-      737,
-      5767,
-      441,
-      3296,
-      259,
-      51734
+      50369,
+      3855,
+      13,
+      50396
     ],
     "temperature": 1.0,
-    "avg_logprob": -5.970633562873392,
-    "compression_ratio": 0.9242424242424242,
+    "avg_logprob": -2.0266595840454102,
+    "compression_ratio": 0.6,
     "no_speech_prob": 0.5686279535293579
   }
 ]

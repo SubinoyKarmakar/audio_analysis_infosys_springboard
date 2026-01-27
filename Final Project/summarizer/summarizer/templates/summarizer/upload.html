@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Podcast Summarizer</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: linear-gradient(135deg, #667eea, #764ba2);
+      min-height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 16px;
+    }
+
+    .container {
+      background: #ffffff;
+      width: 100%;
+      max-width: 720px;
+      padding: 28px;
+      border-radius: 14px;
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+      text-align: center;
+    }
+
+    h2 {
+      margin: 0 0 18px;
+      color: #333;
+      font-size: 24px;
+    }
+
+    .upload-box {
+      border: 2px dashed #764ba2;
+      border-radius: 12px;
+      padding: 28px 20px;
+      margin-bottom: 20px;
+      background: #faf8ff;
+    }
+
+    /* Hide native file input */
+    input[type="file"] {
+      display: none;
+    }
+
+    .file-label {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #fff;
+      border: 1px solid #aaa;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 15px;
+      transition: 0.2s ease;
+    }
+
+    .file-label:hover {
+      background: #f0f0ff;
+    }
+
+    .file-name {
+      margin-top: 10px;
+      font-size: 14px;
+      color: #555;
+      word-break: break-word;
+    }
+
+    button {
+      background: #667eea;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      padding: 14px 26px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.2s ease;
+      width: 100%;
+      max-width: 220px;
+    }
+
+    button:hover {
+      background: #5a6fd8;
+    }
+
+    .loading {
+      margin-top: 16px;
+      font-weight: bold;
+      color: #555;
+      font-size: 14px;
+    }
+
+    .summary {
+      margin-top: 28px;
+      text-align: left;
+    }
+
+    .summary h2 {
+      font-size: 20px;
+      margin-bottom: 16px;
+    }
+
+    .card {
+      background: #f8f9ff;
+      border-left: 5px solid #667eea;
+      padding: 16px;
+      margin-bottom: 16px;
+      border-radius: 10px;
+    }
+
+    .card h3 {
+      margin: 0 0 8px;
+      font-size: 16px;
+      color: #333;
+    }
+
+    .card p {
+      margin: 0;
+      line-height: 1.6;
+      font-size: 14px;
+      color: #555;
+    }
+
+    /* ✅ Mobile tweaks */
+    @media (max-width: 480px) {
+      h2 {
+        font-size: 20px;
+      }
+
+      .upload-box {
+        padding: 22px 14px;
+      }
+
+      .file-label {
+        width: 100%;
+        text-align: center;
+      }
+
+      button {
+        width: 100%;
+        max-width: 100%;
+      }
+    }
+  </style>
+
+  <script>
+    function showLoading() {
+      document.getElementById("loading").style.display = "block";
+    }
+
+    function showFileName(input) {
+      const label = document.getElementById("file-name");
+      label.innerText = input.files.length
+        ? input.files[0].name
+        : "No file chosen";
+    }
+  </script>
+</head>
+
+<body>
+  <div class="container">
+    <h2>🎧 Podcast Summarizer</h2>
+
+    <form method="POST" enctype="multipart/form-data" onsubmit="showLoading()">
+      {% csrf_token %}
+
+      <div class="upload-box">
+        <p>Select an audio file (.mp3 / .wav)</p>
+
+        <label class="file-label">
+          Choose File
+          <input type="file"
+                 name="audio"
+                 accept=".mp3,.wav"
+                 onchange="showFileName(this)"
+                 required>
+        </label>
+
+        <div id="file-name" class="file-name">No file chosen</div>
+      </div>
+
+      <button type="submit">Summarize</button>
+    </form>
+
+    <div id="loading" class="loading" style="display:none;">
+      ⏳ Processing audio… this may take a few minutes
+    </div>
+
+    {% if summaries %}
+      <div class="summary">
+        <h2>📝 Summary</h2>
+        {% for title, text in summaries %}
+          <div class="card">
+            <h3>{{ title }}</h3>
+            <p>{{ text }}</p>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</body>
+</html>

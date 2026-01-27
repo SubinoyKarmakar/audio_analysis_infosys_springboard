@@ -3,7 +3,7 @@
     "id": 0,
     "seek": 0,
     "start": 0.0,
-    "end": 28.8,
+    "end": 28.72,
     "text": " Amore me, Amore me, Amore me, Amore me.",
     "tokens": [
       50364,
@@ -23,10 +23,10 @@
       418,
       385,
       13,
-      51804
+      51800
     ],
     "temperature": 0.2,
-    "avg_logprob": -0.8320438485396536,
+    "avg_logprob": -0.8277462407162315,
     "compression_ratio": 1.7727272727272727,
     "no_speech_prob": 0.7544296979904175
   },
@@ -34,7 +34,7 @@
     "id": 1,
     "seek": 3000,
     "start": 30.0,
-    "end": 48.400000000000006,
+    "end": 48.480000000000004,
     "text": " Amore me, Amore me, Amore me.",
     "tokens": [
       50364,
@@ -50,21 +50,21 @@
       418,
       385,
       13,
-      51284
+      51288
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.5619248151779175,
+    "avg_logprob": -0.6014035940170288,
     "compression_ratio": 1.3181818181818181,
-    "no_speech_prob": 0.017090797424316406
+    "no_speech_prob": 0.0163262952119112
   },
   {
     "id": 2,
-    "seek": 4840,
-    "start": 48.4,
-    "end": 61.2,
+    "seek": 4848,
+    "start": 48.48,
+    "end": 60.559999999999995,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50414,
+      50412,
       2012,
       418,
       385,
@@ -73,21 +73,21 @@
       418,
       385,
       13,
-      51004
+      50968
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.5536585287614302,
+    "avg_logprob": -0.5836155197837136,
     "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.10772754997015
+    "no_speech_prob": 0.1016157940030098
   },
   {
     "id": 3,
-    "seek": 7840,
-    "start": 79.4,
-    "end": 91.2,
+    "seek": 7848,
+    "start": 79.44,
+    "end": 90.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50414,
+      50412,
       2012,
       418,
       385,
@@ -96,21 +96,21 @@
       418,
       385,
       13,
-      51004
+      50968
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.3787812319668857,
+    "avg_logprob": -0.627115856517445,
     "compression_ratio": 1.56,
-    "no_speech_prob": 0.056436747312545776
+    "no_speech_prob": 0.06250655651092529
   },
   {
     "id": 4,
-    "seek": 7840,
-    "start": 91.2,
-    "end": 103.2,
+    "seek": 7848,
+    "start": 91.56,
+    "end": 102.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      51004,
+      51018,
       2012,
       418,
       385,
@@ -119,21 +119,21 @@
       418,
       385,
       13,
-      51604
+      51568
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.3787812319668857,
+    "avg_logprob": -0.627115856517445,
     "compression_ratio": 1.56,
-    "no_speech_prob": 0.056436747312545776
+    "no_speech_prob": 0.06250655651092529
   },
   {
     "id": 5,
-    "seek": 10320,
-    "start": 104.0,
-    "end": 116.0,
+    "seek": 10256,
+    "start": 103.52,
+    "end": 114.64,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50404,
+      50412,
       2012,
       418,
       385,
@@ -142,21 +142,21 @@
       418,
       385,
       13,
-      51004
+      50968
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.3509654782035134,
+    "avg_logprob": -0.5015277862548828,
     "compression_ratio": 1.56,
-    "no_speech_prob": 0.013727697543799877
+    "no_speech_prob": 0.04887381196022034
   },
   {
     "id": 6,
-    "seek": 10320,
-    "start": 116.0,
-    "end": 128.0,
+    "seek": 10256,
+    "start": 115.60000000000001,
+    "end": 126.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      51004,
+      51016,
       2012,
       418,
       385,
@@ -165,21 +165,21 @@
       418,
       385,
       13,
-      51604
+      51564
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.3509654782035134,
+    "avg_logprob": -0.5015277862548828,
     "compression_ratio": 1.56,
-    "no_speech_prob": 0.013727697543799877
+    "no_speech_prob": 0.04887381196022034
   },
   {
     "id": 7,
-    "seek": 12800,
-    "start": 128.0,
-    "end": 146.4,
+    "seek": 12656,
+    "start": 127.52,
+    "end": 146.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50364,
+      50412,
       2012,
       418,
       385,
@@ -188,21 +188,21 @@
       418,
       385,
       13,
-      51284
+      51364
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.33416112263997394,
+    "avg_logprob": -0.42830852667490643,
     "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.0034987886901944876
+    "no_speech_prob": 0.011612465605139732
   },
   {
     "id": 8,
-    "seek": 14640,
-    "start": 146.4,
-    "end": 165.6,
+    "seek": 14656,
+    "start": 146.56,
+    "end": 156.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50404,
+      50364,
       2012,
       418,
       385,
@@ -211,21 +211,21 @@
       418,
       385,
       13,
-      51324
+      50864
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.5084456530484286,
-    "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.02207859791815281
+    "avg_logprob": -0.21765782616355203,
+    "compression_ratio": 1.56,
+    "no_speech_prob": 0.02053711749613285
   },
   {
     "id": 9,
-    "seek": 17640,
-    "start": 176.4,
-    "end": 191.20000000000002,
+    "seek": 14656,
+    "start": 156.56,
+    "end": 166.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50364,
+      50864,
       2012,
       418,
       385,
@@ -234,19 +234,19 @@
       418,
       385,
       13,
-      51104
+      51364
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.4088756243387858,
-    "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.11634949594736099
+    "avg_logprob": -0.21765782616355203,
+    "compression_ratio": 1.56,
+    "no_speech_prob": 0.02053711749613285
   },
   {
     "id": 10,
-    "seek": 19120,
-    "start": 191.2,
-    "end": 204.0,
-    "text": " Amore me, Amore me, Amore me.",
+    "seek": 16656,
+    "start": 166.56,
+    "end": 186.56,
+    "text": " Amore me, Amore me.",
     "tokens": [
       50364,
       2012,
@@ -256,50 +256,19 @@
       2012,
       418,
       385,
-      11,
-      2012,
-      418,
-      385,
       13,
-      51004
+      51364
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.4407902399698893,
-    "compression_ratio": 1.3181818181818181,
-    "no_speech_prob": 0.16888612508773804
+    "avg_logprob": -0.4814399480819702,
+    "compression_ratio": 0.9047619047619048,
+    "no_speech_prob": 0.26302722096443176
   },
   {
     "id": 11,
-    "seek": 22120,
-    "start": 221.2,
-    "end": 234.0,
-    "text": " Amore me, Amore me, Amore me.",
-    "tokens": [
-      50404,
-      2012,
-      418,
-      385,
-      11,
-      2012,
-      418,
-      385,
-      11,
-      2012,
-      418,
-      385,
-      13,
-      51004
-    ],
-    "temperature": 0.0,
-    "avg_logprob": -0.465226936340332,
-    "compression_ratio": 1.3181818181818181,
-    "no_speech_prob": 0.3995663821697235
-  },
-  {
-    "id": 12,
-    "seek": 25120,
-    "start": 251.2,
-    "end": 264.0,
+    "seek": 18656,
+    "start": 186.56,
+    "end": 206.56,
     "text": " Amore me, Amore me.",
     "tokens": [
       50364,
@@ -311,21 +280,21 @@
       418,
       385,
       13,
-      51004
+      51364
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.4839688647877086,
+    "avg_logprob": -0.34747678583318536,
     "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.43956059217453003
+    "no_speech_prob": 0.11206752806901932
   },
   {
-    "id": 13,
-    "seek": 28120,
-    "start": 281.2,
-    "end": 294.0,
+    "id": 12,
+    "seek": 21656,
+    "start": 216.56,
+    "end": 226.56,
     "text": " Amore me, Amore me.",
     "tokens": [
-      50404,
+      50364,
       2012,
       418,
       385,
@@ -334,11 +303,195 @@
       418,
       385,
       13,
-      51004
+      50864
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.4636313698508523,
+    "avg_logprob": -0.32982013442299585,
+    "compression_ratio": 1.56,
+    "no_speech_prob": 0.29597389698028564
+  },
+  {
+    "id": 13,
+    "seek": 21656,
+    "start": 226.56,
+    "end": 236.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50864,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      51364
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.32982013442299585,
+    "compression_ratio": 1.56,
+    "no_speech_prob": 0.29597389698028564
+  },
+  {
+    "id": 14,
+    "seek": 23656,
+    "start": 236.56,
+    "end": 246.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50364,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      50864
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.26107585430145264,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.313594251871109
+  },
+  {
+    "id": 15,
+    "seek": 23656,
+    "start": 246.56,
+    "end": 256.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50864,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      51364
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.26107585430145264,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.313594251871109
+  },
+  {
+    "id": 16,
+    "seek": 23656,
+    "start": 256.56,
+    "end": 264.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      51364,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      51764
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.26107585430145264,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.313594251871109
+  },
+  {
+    "id": 17,
+    "seek": 26456,
+    "start": 264.56,
+    "end": 274.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50364,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      50864
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.20211823284626007,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.04733036458492279
+  },
+  {
+    "id": 18,
+    "seek": 26456,
+    "start": 274.56,
+    "end": 284.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50864,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      51364
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.20211823284626007,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.04733036458492279
+  },
+  {
+    "id": 19,
+    "seek": 26456,
+    "start": 284.56,
+    "end": 292.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      51364,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      51764
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.20211823284626007,
+    "compression_ratio": 2.36,
+    "no_speech_prob": 0.04733036458492279
+  },
+  {
+    "id": 20,
+    "seek": 29256,
+    "start": 292.56,
+    "end": 302.56,
+    "text": " Amore me, Amore me.",
+    "tokens": [
+      50364,
+      2012,
+      418,
+      385,
+      11,
+      2012,
+      418,
+      385,
+      13,
+      50864
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.1762099266052246,
     "compression_ratio": 0.9047619047619048,
-    "no_speech_prob": 0.3884314298629761
+    "no_speech_prob": 0.09693115204572678
   }
 ]

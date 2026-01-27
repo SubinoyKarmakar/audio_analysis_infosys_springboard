@@ -2142,20 +2142,20 @@
   {
     "id": 87,
     "seek": 20028,
-    "start": 201.12,
+    "start": 201.28,
     "end": 202.48,
-    "text": " Bence seat.",
+    "text": " Bins seat.",
     "tokens": [
-      50406,
+      50414,
       363,
-      655,
+      1292,
       6121,
       13,
       50474
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
@@ -2163,131 +2163,102 @@
     "seek": 20028,
     "start": 202.48,
     "end": 203.56,
-    "text": " Bence seat.",
+    "text": " Bins seat.",
     "tokens": [
       50474,
       363,
-      655,
+      1292,
       6121,
       13,
       50528
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
     "id": 89,
     "seek": 20028,
     "start": 203.56,
-    "end": 204.4,
-    "text": " Bence seat.",
+    "end": 204.84,
+    "text": " Bins seat, that's what I said.",
     "tokens": [
       50528,
       363,
-      655,
+      1292,
       6121,
-      13,
-      50570
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 90,
-    "seek": 20028,
-    "start": 204.4,
-    "end": 205.24,
-    "text": " That's what I said.",
-    "tokens": [
-      50570,
-      663,
+      11,
+      300,
       311,
       437,
       286,
       848,
       13,
-      50612
+      50592
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
+    "no_speech_prob": 0.018420452252030373
+  },
+  {
+    "id": 90,
+    "seek": 20028,
+    "start": 204.84,
+    "end": 206.1,
+    "text": " Bins seat, not the bucket.",
+    "tokens": [
+      50592,
+      363,
+      1292,
+      6121,
+      11,
+      406,
+      264,
+      13058,
+      13,
+      50655
+    ],
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
     "id": 91,
     "seek": 20028,
-    "start": 205.24,
-    "end": 206.08,
-    "text": " Bence seat.",
+    "start": 206.1,
+    "end": 207.72,
+    "text": " Yeah, the bucket is to what we have now.",
     "tokens": [
-      50612,
-      363,
-      655,
-      6121,
-      13,
-      50654
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 92,
-    "seek": 20028,
-    "start": 206.08,
-    "end": 206.92000000000002,
-    "text": " Not the bucket.",
-    "tokens": [
-      50654,
-      1726,
-      264,
-      13058,
-      13,
-      50696
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 93,
-    "seek": 20028,
-    "start": 206.92000000000002,
-    "end": 207.76,
-    "text": " Yeah, the bucket is what we have now.",
-    "tokens": [
-      50696,
+      50655,
       865,
       11,
       264,
       13058,
       307,
+      281,
       437,
       321,
       362,
       586,
       13,
-      50738
+      50736
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 94,
+    "id": 92,
     "seek": 20028,
-    "start": 207.76,
+    "start": 207.72,
     "end": 209.48,
     "text": " Not the bucket, the bench, I'm sorry.",
     "tokens": [
-      50738,
+      50736,
       1726,
       264,
       13058,
@@ -2301,17 +2272,17 @@
       13,
       50824
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 95,
+    "id": 93,
     "seek": 20028,
     "start": 209.48,
-    "end": 211.9,
-    "text": " So now that, so they, remember, okay,",
+    "end": 211.88,
+    "text": " So now that, so they, remember, okay.",
     "tokens": [
       50824,
       407,
@@ -2324,23 +2295,23 @@
       1604,
       11,
       1392,
-      11,
-      50945
+      13,
+      50944
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 96,
+    "id": 94,
     "seek": 20028,
-    "start": 211.9,
-    "end": 213.68,
-    "text": " you remember years ago when they had the bence seat",
+    "start": 211.88,
+    "end": 213.24,
+    "text": " You remember years ago when they had the",
     "tokens": [
-      50945,
-      291,
+      50944,
+      509,
       1604,
       924,
       2057,
@@ -2348,61 +2319,46 @@
       436,
       632,
       264,
-      272,
-      655,
-      6121,
-      51034
+      51012
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 97,
+    "id": 95,
     "seek": 20028,
-    "start": 213.68,
-    "end": 214.52,
-    "text": " in all the cars?",
+    "start": 213.24,
+    "end": 214.56,
+    "text": " bins seat in all the cars, okay.",
     "tokens": [
-      51034,
+      51012,
+      272,
+      1292,
+      6121,
       294,
       439,
       264,
       5163,
-      30,
-      51076
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 98,
-    "seek": 20028,
-    "start": 214.52,
-    "end": 215.36,
-    "text": " Okay.",
-    "tokens": [
-      51076,
-      1033,
+      11,
+      1392,
       13,
-      51118
+      51078
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 99,
+    "id": 96,
     "seek": 20028,
-    "start": 215.36,
-    "end": 216.68,
+    "start": 214.56,
+    "end": 216.58,
     "text": " Now the woman's over here and she's like,",
     "tokens": [
-      51118,
+      51078,
       823,
       264,
       3059,
@@ -2414,21 +2370,21 @@
       311,
       411,
       11,
-      51184
+      51179
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 100,
+    "id": 97,
     "seek": 20028,
-    "start": 218.76,
-    "end": 221.56,
-    "text": " you know, you know what there's a problem.",
+    "start": 219.0,
+    "end": 221.76,
+    "text": " you know, you know what there's a problem, okay.",
     "tokens": [
-      51288,
+      51300,
       291,
       458,
       11,
@@ -2439,77 +2395,94 @@
       311,
       257,
       1154,
+      11,
+      1392,
       13,
-      51428
+      51438
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
-    "id": 101,
+    "id": 98,
     "seek": 20028,
-    "start": 221.56,
-    "end": 223.72,
-    "text": " Okay, it's always the, what?",
+    "start": 221.76,
+    "end": 223.76,
+    "text": " It's always the, what?",
     "tokens": [
-      51428,
-      1033,
-      11,
-      309,
+      51438,
+      467,
       311,
       1009,
       264,
       11,
       437,
       30,
-      51536
+      51538
     ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
+    "no_speech_prob": 0.018420452252030373
+  },
+  {
+    "id": 99,
+    "seek": 20028,
+    "start": 223.76,
+    "end": 225.08,
+    "text": " Hmm.",
+    "tokens": [
+      51538,
+      8239,
+      13,
+      51604
+    ],
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
+    "no_speech_prob": 0.018420452252030373
+  },
+  {
+    "id": 100,
+    "seek": 20028,
+    "start": 225.08,
+    "end": 225.9,
+    "text": " Mm.",
+    "tokens": [
+      51604,
+      8266,
+      13,
+      51645
+    ],
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
+    "no_speech_prob": 0.018420452252030373
+  },
+  {
+    "id": 101,
+    "seek": 20028,
+    "start": 225.9,
+    "end": 226.74,
+    "text": " Mm.",
+    "tokens": [
+      51645,
+      8266,
+      13,
+      51687
+    ],
+    "temperature": 0.2,
+    "avg_logprob": -0.41763838676557147,
+    "compression_ratio": 1.8045454545454545,
     "no_speech_prob": 0.018420452252030373
   },
   {
     "id": 102,
-    "seek": 20028,
-    "start": 223.72,
-    "end": 224.88,
-    "text": " Hmm.",
-    "tokens": [
-      51536,
-      8239,
-      13,
-      51594
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 103,
-    "seek": 20028,
-    "start": 224.88,
-    "end": 225.72,
-    "text": " Hmm.",
-    "tokens": [
-      51594,
-      8239,
-      13,
-      51636
-    ],
-    "temperature": 0.4,
-    "avg_logprob": -0.4483999135542889,
-    "compression_ratio": 1.8082191780821917,
-    "no_speech_prob": 0.018420452252030373
-  },
-  {
-    "id": 104,
-    "seek": 22572,
-    "start": 226.72,
-    "end": 227.72,
+    "seek": 22674,
+    "start": 227.74,
+    "end": 228.74,
     "text": " Hmm.",
     "tokens": [
       50414,
@@ -2518,35 +2491,18 @@
       50464
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 105,
-    "seek": 22572,
-    "start": 227.72,
-    "end": 228.72,
-    "text": " Hmm.",
-    "tokens": [
-      50464,
-      8239,
-      13,
-      50514
-    ],
-    "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
-  },
-  {
-    "id": 106,
-    "seek": 22572,
-    "start": 228.72,
-    "end": 231.76,
+    "id": 103,
+    "seek": 22674,
+    "start": 228.74,
+    "end": 231.78,
     "text": " And you're, oh, it's coming out.",
     "tokens": [
-      50514,
+      50464,
       400,
       291,
       434,
@@ -2558,85 +2514,85 @@
       1348,
       484,
       13,
-      50666
+      50616
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 107,
-    "seek": 22572,
-    "start": 231.76,
-    "end": 232.88,
-    "text": " I'm just gonna wait for it.",
+    "id": 104,
+    "seek": 22674,
+    "start": 231.78,
+    "end": 232.86,
+    "text": " I'm just gonna wait for you.",
     "tokens": [
-      50666,
+      50616,
       286,
       478,
       445,
       799,
       1699,
       337,
-      309,
+      291,
       13,
-      50722
+      50670
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 108,
-    "seek": 22572,
-    "start": 232.88,
-    "end": 234.07999999999998,
+    "id": 105,
+    "seek": 22674,
+    "start": 232.86,
+    "end": 234.06,
     "text": " I know it's coming.",
     "tokens": [
-      50722,
+      50670,
       286,
       458,
       309,
       311,
       1348,
       13,
-      50782
+      50730
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 109,
-    "seek": 22572,
-    "start": 234.07999999999998,
-    "end": 235.8,
+    "id": 106,
+    "seek": 22674,
+    "start": 234.06,
+    "end": 235.74,
     "text": " And so she says,",
     "tokens": [
-      50782,
+      50730,
       400,
       370,
       750,
       1619,
       11,
-      50868
+      50814
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 110,
-    "seek": 22572,
-    "start": 237.32,
-    "end": 239.92,
+    "id": 107,
+    "seek": 22674,
+    "start": 237.3,
+    "end": 239.9,
     "text": " you remember when we were first married?",
     "tokens": [
-      50944,
+      50892,
       291,
       1604,
       562,
@@ -2645,21 +2601,21 @@
       700,
       5259,
       30,
-      51074
+      51022
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 111,
-    "seek": 22572,
-    "start": 239.92,
-    "end": 243.12,
+    "id": 108,
+    "seek": 22674,
+    "start": 239.9,
+    "end": 243.10000000000002,
     "text": " How we always sat so close together when we drove?",
     "tokens": [
-      51074,
+      51022,
       1012,
       321,
       1009,
@@ -2671,21 +2627,21 @@
       321,
       13226,
       30,
-      51234
+      51182
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 112,
-    "seek": 22572,
-    "start": 243.12,
-    "end": 244.68,
+    "id": 109,
+    "seek": 22674,
+    "start": 243.10000000000002,
+    "end": 244.66000000000003,
     "text": " You just love it when I sat beside you",
     "tokens": [
-      51234,
+      51182,
       509,
       445,
       959,
@@ -2695,60 +2651,60 @@
       3227,
       15726,
       291,
-      51312
+      51260
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 113,
-    "seek": 22572,
-    "start": 244.68,
-    "end": 246.24,
+    "id": 110,
+    "seek": 22674,
+    "start": 244.66000000000003,
+    "end": 246.22,
     "text": " and your arm around me.",
     "tokens": [
-      51312,
+      51260,
       293,
       428,
       3726,
       926,
       385,
       13,
-      51390
+      51338
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 114,
-    "seek": 22572,
-    "start": 246.24,
-    "end": 247.88,
+    "id": 111,
+    "seek": 22674,
+    "start": 246.22,
+    "end": 247.82000000000002,
     "text": " What happened?",
     "tokens": [
-      51390,
+      51338,
       708,
       2011,
       30,
-      51472
+      51418
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 115,
-    "seek": 22572,
-    "start": 247.88,
-    "end": 249.96,
+    "id": 112,
+    "seek": 22674,
+    "start": 247.82000000000002,
+    "end": 249.94,
     "text": " And you know what the guy says?",
     "tokens": [
-      51472,
+      51418,
       400,
       291,
       458,
@@ -2757,41 +2713,41 @@
       2146,
       1619,
       30,
-      51576
+      51524
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 116,
-    "seek": 22572,
-    "start": 249.96,
-    "end": 251.84,
+    "id": 113,
+    "seek": 22674,
+    "start": 249.94,
+    "end": 251.86,
     "text": " I haven't moved.",
     "tokens": [
-      51576,
+      51524,
       286,
       2378,
       380,
       4259,
       13,
-      51670
+      51620
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 117,
-    "seek": 22572,
-    "start": 253.32,
-    "end": 255.4,
+    "id": 114,
+    "seek": 22674,
+    "start": 253.3,
+    "end": 255.38,
     "text": " He's still behind us during the world.",
     "tokens": [
-      51744,
+      51692,
       634,
       311,
       920,
@@ -2801,57 +2757,57 @@
       264,
       1002,
       13,
-      51848
+      51796
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.34266144667214493,
-    "compression_ratio": 1.5938864628820961,
-    "no_speech_prob": 0.003994479309767485
+    "avg_logprob": -0.332284719002347,
+    "compression_ratio": 1.5973451327433628,
+    "no_speech_prob": 0.0015396090457215905
   },
   {
-    "id": 118,
-    "seek": 25540,
-    "start": 255.4,
-    "end": 256.24,
+    "id": 115,
+    "seek": 25538,
+    "start": 255.38,
+    "end": 256.1,
     "text": " Who moved?",
     "tokens": [
       50364,
       2102,
       4259,
       30,
-      50406
+      50400
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 119,
-    "seek": 25540,
-    "start": 256.24,
-    "end": 257.32,
+    "id": 116,
+    "seek": 25538,
+    "start": 256.1,
+    "end": 257.34,
     "text": " She did.",
     "tokens": [
-      50406,
+      50400,
       1240,
       630,
       13,
-      50460
+      50462
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 120,
-    "seek": 25540,
-    "start": 257.32,
-    "end": 258.64,
+    "id": 117,
+    "seek": 25538,
+    "start": 257.34,
+    "end": 258.65999999999997,
     "text": " And sometimes we do as the Lord.",
     "tokens": [
-      50460,
+      50462,
       400,
       2171,
       321,
@@ -2860,21 +2816,21 @@
       264,
       3257,
       13,
-      50526
+      50528
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 121,
-    "seek": 25540,
-    "start": 258.64,
-    "end": 261.36,
+    "id": 118,
+    "seek": 25538,
+    "start": 258.65999999999997,
+    "end": 261.38,
     "text": " We're like, I just don't feel close to Lord anymore.",
     "tokens": [
-      50526,
+      50528,
       492,
       434,
       411,
@@ -2889,21 +2845,21 @@
       3257,
       3602,
       13,
-      50662
+      50664
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 122,
-    "seek": 25540,
-    "start": 261.36,
-    "end": 262.84000000000003,
+    "id": 119,
+    "seek": 25538,
+    "start": 261.38,
+    "end": 262.86,
     "text": " I don't feel warm-hearted.",
     "tokens": [
-      50662,
+      50664,
       286,
       500,
       380,
@@ -2912,79 +2868,79 @@
       12,
       25471,
       13,
-      50736
+      50738
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 123,
-    "seek": 25540,
-    "start": 262.84000000000003,
-    "end": 263.84000000000003,
+    "id": 120,
+    "seek": 25538,
+    "start": 262.86,
+    "end": 263.86,
     "text": " What happened?",
     "tokens": [
-      50736,
+      50738,
       708,
       2011,
       30,
-      50786
+      50788
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 124,
-    "seek": 25540,
-    "start": 263.84000000000003,
-    "end": 264.68,
-    "text": " Let me tell you what happened?",
+    "id": 121,
+    "seek": 25538,
+    "start": 263.86,
+    "end": 264.58,
+    "text": " Let me tell you what happened.",
     "tokens": [
-      50786,
+      50788,
       961,
       385,
       980,
       291,
       437,
       2011,
-      30,
-      50828
+      13,
+      50824
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 125,
-    "seek": 25540,
-    "start": 264.68,
-    "end": 266.04,
+    "id": 122,
+    "seek": 25538,
+    "start": 264.58,
+    "end": 266.06,
     "text": " You happened.",
     "tokens": [
-      50828,
+      50824,
       509,
       2011,
       13,
-      50896
+      50898
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 126,
-    "seek": 25540,
-    "start": 266.04,
-    "end": 266.88,
+    "id": 123,
+    "seek": 25538,
+    "start": 266.06,
+    "end": 266.86,
     "text": " The Lord's the same.",
     "tokens": [
-      50896,
+      50898,
       440,
       3257,
       311,
@@ -2994,15 +2950,15 @@
       50938
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 127,
-    "seek": 25540,
-    "start": 266.88,
-    "end": 267.72,
+    "id": 124,
+    "seek": 25538,
+    "start": 266.86,
+    "end": 267.7,
     "text": " He never changes.",
     "tokens": [
       50938,
@@ -3013,15 +2969,15 @@
       50980
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 128,
-    "seek": 25540,
-    "start": 267.72,
-    "end": 269.0,
+    "id": 125,
+    "seek": 25538,
+    "start": 267.7,
+    "end": 269.02,
     "text": " We sing songs about that every now and then.",
     "tokens": [
       50980,
@@ -3035,40 +2991,40 @@
       293,
       550,
       13,
-      51044
+      51046
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 129,
-    "seek": 25540,
-    "start": 269.0,
-    "end": 269.84000000000003,
+    "id": 126,
+    "seek": 25538,
+    "start": 269.02,
+    "end": 269.86,
     "text": " You might notice.",
     "tokens": [
-      51044,
+      51046,
       509,
       1062,
       3449,
       13,
-      51086
+      51088
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 130,
-    "seek": 25540,
-    "start": 269.84000000000003,
-    "end": 271.32,
+    "id": 127,
+    "seek": 25538,
+    "start": 269.86,
+    "end": 271.34,
     "text": " He, and there's some verses about it too.",
     "tokens": [
-      51086,
+      51088,
       634,
       11,
       293,
@@ -3080,62 +3036,62 @@
       309,
       886,
       13,
-      51160
+      51162
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 131,
-    "seek": 25540,
-    "start": 271.32,
-    "end": 272.52,
+    "id": 128,
+    "seek": 25538,
+    "start": 271.34,
+    "end": 272.54,
     "text": " So he never changes.",
     "tokens": [
-      51160,
+      51162,
       407,
       415,
       1128,
       2962,
       13,
-      51220
+      51222
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 132,
-    "seek": 25540,
-    "start": 272.52,
-    "end": 274.24,
+    "id": 129,
+    "seek": 25538,
+    "start": 272.54,
+    "end": 274.26,
     "text": " He's always the same.",
     "tokens": [
-      51220,
+      51222,
       634,
       311,
       1009,
       264,
       912,
       13,
-      51306
+      51308
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 133,
-    "seek": 25540,
-    "start": 274.24,
-    "end": 276.4,
+    "id": 130,
+    "seek": 25538,
+    "start": 274.26,
+    "end": 276.42,
     "text": " So if there is a now hindrance,",
     "tokens": [
-      51306,
+      51308,
       407,
       498,
       456,
@@ -3145,21 +3101,21 @@
       20138,
       32493,
       11,
-      51414
+      51416
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 134,
-    "seek": 25540,
-    "start": 276.4,
-    "end": 278.24,
+    "id": 131,
+    "seek": 25538,
+    "start": 276.42,
+    "end": 278.26,
     "text": " if there's something that's separating it,",
     "tokens": [
-      51414,
+      51416,
       498,
       456,
       311,
@@ -3169,42 +3125,42 @@
       29279,
       309,
       11,
-      51506
+      51508
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 135,
-    "seek": 25540,
-    "start": 278.24,
-    "end": 279.56,
+    "id": 132,
+    "seek": 25538,
+    "start": 278.26,
+    "end": 279.58,
     "text": " the Lord is no different.",
     "tokens": [
-      51506,
+      51508,
       264,
       3257,
       307,
       572,
       819,
       13,
-      51572
+      51574
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 136,
-    "seek": 25540,
-    "start": 279.56,
-    "end": 282.12,
+    "id": 133,
+    "seek": 25538,
+    "start": 279.58,
+    "end": 282.14,
     "text": " So we're, we're at faulted.",
     "tokens": [
-      51572,
+      51574,
       407,
       321,
       434,
@@ -3215,21 +3171,21 @@
       7441,
       292,
       13,
-      51700
+      51702
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 137,
-    "seek": 25540,
-    "start": 282.12,
-    "end": 284.64,
+    "id": 134,
+    "seek": 25538,
+    "start": 282.14,
+    "end": 284.65999999999997,
     "text": " We need to deal with what's going on our line.",
     "tokens": [
-      51700,
+      51702,
       492,
       643,
       281,
@@ -3242,18 +3198,18 @@
       527,
       1622,
       13,
-      51826
+      51828
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.1651738588927222,
+    "avg_logprob": -0.17523754099027708,
     "compression_ratio": 1.801948051948052,
-    "no_speech_prob": 0.001182560226880014
+    "no_speech_prob": 0.0024389647878706455
   },
   {
-    "id": 138,
-    "seek": 28464,
-    "start": 284.64,
-    "end": 286.64,
+    "id": 135,
+    "seek": 28466,
+    "start": 284.66,
+    "end": 286.66,
     "text": " Now think about this, based on this text,",
     "tokens": [
       50364,
@@ -3270,15 +3226,15 @@
       50464
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   },
   {
-    "id": 139,
-    "seek": 28464,
-    "start": 286.64,
-    "end": 289.12,
+    "id": 136,
+    "seek": 28466,
+    "start": 286.66,
+    "end": 289.14000000000004,
     "text": " what he's talking about here in Luke 11.",
     "tokens": [
       50464,
@@ -3295,15 +3251,15 @@
       50588
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   },
   {
-    "id": 140,
-    "seek": 28464,
-    "start": 289.12,
-    "end": 292.12,
+    "id": 137,
+    "seek": 28466,
+    "start": 289.14000000000004,
+    "end": 292.14000000000004,
     "text": " The fact that God would seek out the wicked,",
     "tokens": [
       50588,
@@ -3320,15 +3276,15 @@
       50738
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   },
   {
-    "id": 141,
-    "seek": 28464,
-    "start": 292.12,
-    "end": 296.12,
+    "id": 138,
+    "seek": 28466,
+    "start": 292.14000000000004,
+    "end": 296.18,
     "text": " ungodly Ninevites was evidence",
     "tokens": [
       50738,
@@ -3340,21 +3296,21 @@
       3324,
       390,
       4467,
-      50938
+      50940
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   },
   {
-    "id": 142,
-    "seek": 28464,
-    "start": 296.12,
-    "end": 299.03999999999996,
+    "id": 139,
+    "seek": 28466,
+    "start": 296.18,
+    "end": 299.06,
     "text": " that God desires relationship with anyone",
     "tokens": [
-      50938,
+      50940,
       300,
       1265,
       18005,
@@ -3364,15 +3320,15 @@
       51084
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   },
   {
-    "id": 143,
-    "seek": 28464,
-    "start": 299.03999999999996,
-    "end": 301.03999999999996,
+    "id": 140,
+    "seek": 28466,
+    "start": 299.06,
+    "end": 301.06,
     "text": " who would open their hearts and make.",
     "tokens": [
       51084,
@@ -3387,8 +3343,8 @@
       51184
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.31148094764122597,
+    "avg_logprob": -0.3123460622934195,
     "compression_ratio": 1.4251497005988023,
-    "no_speech_prob": 0.00011402759264456108
+    "no_speech_prob": 0.00011060972610721365
   }
 ]

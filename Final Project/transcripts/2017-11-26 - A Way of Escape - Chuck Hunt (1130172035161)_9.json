@@ -3,18 +3,33 @@
     "id": 0,
     "seek": 0,
     "start": 0.0,
-    "end": 19.38,
-    "text": " Good job.",
+    "end": 6.96,
+    "text": " Alright.",
     "tokens": [
       50364,
-      2205,
-      1691,
+      2798,
       13,
-      51333
+      50712
     ],
     "temperature": 1.0,
-    "avg_logprob": -3.3157777786254883,
-    "compression_ratio": 0.5294117647058824,
+    "avg_logprob": -3.838015556335449,
+    "compression_ratio": 0.6,
+    "no_speech_prob": 0.4547784626483917
+  },
+  {
+    "id": 1,
+    "seek": 0,
+    "start": 6.96,
+    "end": 11.48,
+    "text": " Now",
+    "tokens": [
+      50712,
+      823,
+      50938
+    ],
+    "temperature": 1.0,
+    "avg_logprob": -3.838015556335449,
+    "compression_ratio": 0.6,
     "no_speech_prob": 0.4547784626483917
   }
 ]

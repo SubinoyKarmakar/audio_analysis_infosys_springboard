@@ -912,13 +912,12 @@
     "seek": 20032,
     "start": 200.32,
     "end": 209.56,
-    "text": " dedicated and last, we see the work debated. Oh, anytime that God does something there's going to be",
+    "text": " dedicated and last we see the work debated. Oh, anytime that God does something, there's going to be",
     "tokens": [
       50364,
       8374,
       293,
       1036,
-      11,
       321,
       536,
       264,
@@ -932,6 +931,7 @@
       1265,
       775,
       746,
+      11,
       456,
       311,
       516,
@@ -940,8 +940,8 @@
       50826
     ],
     "temperature": 0.2,
-    "avg_logprob": -0.27754243990270105,
-    "compression_ratio": 1.6033519553072626,
+    "avg_logprob": -0.27834345654743475,
+    "compression_ratio": 1.5856353591160222,
     "no_speech_prob": 0.004343658220022917
   },
   {
@@ -985,15 +985,15 @@
       51306
     ],
     "temperature": 0.2,
-    "avg_logprob": -0.27754243990270105,
-    "compression_ratio": 1.6033519553072626,
+    "avg_logprob": -0.27834345654743475,
+    "compression_ratio": 1.5856353591160222,
     "no_speech_prob": 0.004343658220022917
   },
   {
     "id": 26,
     "seek": 20032,
     "start": 219.16,
-    "end": 228.35999999999999,
+    "end": 228.32,
     "text": " time ago that if a pastor can't stand the smell of sheep, he just ought to get out of the",
     "tokens": [
       51306,
@@ -1019,19 +1019,19 @@
       484,
       295,
       264,
-      51766
+      51764
     ],
     "temperature": 0.2,
-    "avg_logprob": -0.27754243990270105,
-    "compression_ratio": 1.6033519553072626,
+    "avg_logprob": -0.27834345654743475,
+    "compression_ratio": 1.5856353591160222,
     "no_speech_prob": 0.004343658220022917
   },
   {
     "id": 27,
-    "seek": 22836,
-    "start": 228.36,
-    "end": 237.20000000000002,
-    "text": " pastorate because we all we like sheep have gone astray and guess what sheep stink. We all do.",
+    "seek": 22832,
+    "start": 228.32,
+    "end": 237.2,
+    "text": " pastorate because we all we like sheep of Ghana, Stray and guess what sheep stink. We all do.",
     "tokens": [
       50364,
       21193,
@@ -1042,9 +1042,10 @@
       321,
       411,
       14213,
-      362,
-      2780,
-      5357,
+      295,
+      38779,
+      11,
+      745,
       3458,
       293,
       2041,
@@ -1056,28 +1057,27 @@
       439,
       360,
       13,
-      50806
+      50808
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.29972592106571905,
-    "compression_ratio": 1.5932203389830508,
-    "no_speech_prob": 0.0025522401556372643
+    "avg_logprob": -0.33149804009331596,
+    "compression_ratio": 1.5469613259668509,
+    "no_speech_prob": 0.002626985078677535
   },
   {
     "id": 28,
-    "seek": 22836,
-    "start": 237.20000000000002,
-    "end": 246.20000000000002,
-    "text": " I'm number one. Okay. We all have failures. We all have misgivings. We all have, areas we fall",
+    "seek": 22832,
+    "start": 237.2,
+    "end": 246.16,
+    "text": " On number one, okay? We all have failures. We all have misgivings. We all have, areas we fall",
     "tokens": [
-      50806,
-      286,
-      478,
+      50808,
+      1282,
       1230,
       472,
-      13,
-      1033,
-      13,
+      11,
+      1392,
+      30,
       492,
       439,
       362,
@@ -1101,15 +1101,15 @@
       51256
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.29972592106571905,
-    "compression_ratio": 1.5932203389830508,
-    "no_speech_prob": 0.0025522401556372643
+    "avg_logprob": -0.33149804009331596,
+    "compression_ratio": 1.5469613259668509,
+    "no_speech_prob": 0.002626985078677535
   },
   {
     "id": 29,
-    "seek": 22836,
-    "start": 246.20000000000002,
-    "end": 252.48000000000002,
+    "seek": 22832,
+    "start": 246.16,
+    "end": 252.44,
     "text": " short. Every last one of us. And so here's what here's what happened. Look, please, at verse",
     "tokens": [
       51256,
@@ -1140,15 +1140,15 @@
       51570
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.29972592106571905,
-    "compression_ratio": 1.5932203389830508,
-    "no_speech_prob": 0.0025522401556372643
+    "avg_logprob": -0.33149804009331596,
+    "compression_ratio": 1.5469613259668509,
+    "no_speech_prob": 0.002626985078677535
   },
   {
     "id": 30,
-    "seek": 25248,
-    "start": 252.48,
-    "end": 258.64,
+    "seek": 25244,
+    "start": 252.44,
+    "end": 258.6,
     "text": " number 12. But many of the priests and Levites and chief of the fathers who were ancient men that had",
     "tokens": [
       50364,
@@ -1177,14 +1177,14 @@
       50672
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.20187882974114216,
-    "compression_ratio": 1.6256983240223464,
-    "no_speech_prob": 0.006495988462120295
+    "avg_logprob": -0.2558273474375407,
+    "compression_ratio": 1.5736842105263158,
+    "no_speech_prob": 0.004276373889297247
   },
   {
     "id": 31,
-    "seek": 25248,
-    "start": 258.64,
+    "seek": 25244,
+    "start": 258.6,
     "end": 266.68,
     "text": " seen the first house when the foundation of this house was laid before their eyes wept with a",
     "tokens": [
@@ -1208,21 +1208,21 @@
       662,
       365,
       257,
-      51074
+      51076
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.20187882974114216,
-    "compression_ratio": 1.6256983240223464,
-    "no_speech_prob": 0.006495988462120295
+    "avg_logprob": -0.2558273474375407,
+    "compression_ratio": 1.5736842105263158,
+    "no_speech_prob": 0.004276373889297247
   },
   {
     "id": 32,
-    "seek": 25248,
+    "seek": 25244,
     "start": 266.68,
-    "end": 274.28,
-    "text": " loud voice. Do you see that there? Now this first, this first temple, this first house had been",
+    "end": 275.2,
+    "text": " loud voice. Do you see that there? Now this first temple, this first house had been destroyed 50 years,",
     "tokens": [
-      51074,
+      51076,
       6588,
       3177,
       13,
@@ -1235,9 +1235,6 @@
       823,
       341,
       700,
-      11,
-      341,
-      700,
       10184,
       11,
       341,
@@ -1245,25 +1242,25 @@
       1782,
       632,
       668,
-      51454
-    ],
-    "temperature": 0.0,
-    "avg_logprob": -0.20187882974114216,
-    "compression_ratio": 1.6256983240223464,
-    "no_speech_prob": 0.006495988462120295
-  },
-  {
-    "id": 33,
-    "seek": 27428,
-    "start": 274.28,
-    "end": 282.59999999999997,
-    "text": " destroyed 50 years, as I mentioned, and the old men, if they were 60 plus years old, then they",
-    "tokens": [
-      50364,
       8937,
       2625,
       924,
       11,
+      51502
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.2558273474375407,
+    "compression_ratio": 1.5736842105263158,
+    "no_speech_prob": 0.004276373889297247
+  },
+  {
+    "id": 33,
+    "seek": 27520,
+    "start": 275.28,
+    "end": 284.64,
+    "text": " as I mentioned, and the old men, if they were 60 plus years old, then they had seen what it was",
+    "tokens": [
+      50368,
       382,
       286,
       2835,
@@ -1283,26 +1280,26 @@
       11,
       550,
       436,
-      50780
-    ],
-    "temperature": 0.0,
-    "avg_logprob": -0.213532429115445,
-    "compression_ratio": 1.3687943262411348,
-    "no_speech_prob": 0.004143363796174526
-  },
-  {
-    "id": 34,
-    "seek": 27428,
-    "start": 282.59999999999997,
-    "end": 292.47999999999996,
-    "text": " had seen what it was like before. Now the size did not change a whole lot because it's pretty much",
-    "tokens": [
-      50780,
       632,
       1612,
       437,
       309,
       390,
+      50836
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.1563156509399414,
+    "compression_ratio": 1.3602941176470589,
+    "no_speech_prob": 0.0007531840237788856
+  },
+  {
+    "id": 34,
+    "seek": 27520,
+    "start": 284.64,
+    "end": 292.96,
+    "text": " like before. Now the size did not change a whole lot because it's pretty much on the same",
+    "tokens": [
+      50836,
       411,
       949,
       13,
@@ -1320,29 +1317,29 @@
       311,
       1238,
       709,
-      51274
-    ],
-    "temperature": 0.0,
-    "avg_logprob": -0.213532429115445,
-    "compression_ratio": 1.3687943262411348,
-    "no_speech_prob": 0.004143363796174526
-  },
-  {
-    "id": 35,
-    "seek": 29248,
-    "start": 292.48,
-    "end": 299.84000000000003,
-    "text": " on the same foundational area. Okay. Size didn't change a whole lot. But you see this",
-    "tokens": [
-      50364,
       322,
       264,
       912,
+      51252
+    ],
+    "temperature": 0.0,
+    "avg_logprob": -0.1563156509399414,
+    "compression_ratio": 1.3602941176470589,
+    "no_speech_prob": 0.0007531840237788856
+  },
+  {
+    "id": 35,
+    "seek": 29296,
+    "start": 292.96,
+    "end": 299.84,
+    "text": " foundational area, okay? Size didn't change a whole lot. But you see this...",
+    "tokens": [
+      50364,
       32195,
       1859,
-      13,
-      1033,
-      13,
+      11,
+      1392,
+      30,
       35818,
       994,
       380,
@@ -1355,11 +1352,12 @@
       291,
       536,
       341,
-      50732
+      485,
+      50708
     ],
     "temperature": 0.0,
-    "avg_logprob": -0.21683956229168436,
-    "compression_ratio": 1.0240963855421688,
-    "no_speech_prob": 0.28793632984161377
+    "avg_logprob": -0.3453402973356701,
+    "compression_ratio": 0.9743589743589743,
+    "no_speech_prob": 0.0652996227145195
   }
 ]

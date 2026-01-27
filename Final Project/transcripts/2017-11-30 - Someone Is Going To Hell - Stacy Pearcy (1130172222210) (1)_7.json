@@ -1816,20 +1816,15 @@
     "id": 55,
     "seek": 29944,
     "start": 299.44,
-    "end": 303.02,
-    "text": " forester a degree.",
+    "end": 299.46,
+    "text": " description",
     "tokens": [
-      50371,
-      2091,
-      3120,
-      257,
-      4314,
-      13,
-      50543
+      50365,
+      3855
     ],
     "temperature": 1.0,
-    "avg_logprob": -4.546242713928223,
-    "compression_ratio": 0.6923076923076923,
+    "avg_logprob": -2.6563607851664224,
+    "compression_ratio": 0.5789473684210527,
     "no_speech_prob": 0.5686279535293579
   }
 ]
